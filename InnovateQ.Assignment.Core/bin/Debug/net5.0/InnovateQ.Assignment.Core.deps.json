@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InnovateQ.Assignment.Core/1.0.0": {
+        "runtime": {
+          "InnovateQ.Assignment.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InnovateQ.Assignment.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

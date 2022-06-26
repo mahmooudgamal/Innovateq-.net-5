@@ -1,0 +1,34 @@
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.csproj.AssemblyReference.cache
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.AssemblyInfoInputs.cache
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.AssemblyInfo.cs
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.csproj.CoreCompileInputs.cache
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Application.deps.json
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Application.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\ref\Employee.Application.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Application.pdb
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Core.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Infrastructure.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Core.pdb
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Infrastructure.pdb
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.csproj.CopyComplete
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\ref\Employee.Application.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.pdb
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Application.deps.json
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Application.dll
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Application.pdb
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Core.dll
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Infrastructure.dll
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Core.pdb
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\net5.0\Employee.Infrastructure.pdb
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.csproj.AssemblyReference.cache
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.AssemblyInfoInputs.cache
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.AssemblyInfo.cs
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.csproj.CoreCompileInputs.cache
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.csproj.CopyComplete
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.dll
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\refint\Employee.Application.dll
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\Employee.Application.pdb
+C:\Users\caaj.pc\Downloads\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\net5.0\ref\Employee.Application.dll

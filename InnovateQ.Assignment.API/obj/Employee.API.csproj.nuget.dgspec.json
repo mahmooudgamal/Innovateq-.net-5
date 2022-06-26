@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\Employee.API\\Employee.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\Employee.API\\Employee.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\Employee.API\\Employee.API.csproj",
+        "projectName": "Employee.API",
+        "projectPath": "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\Employee.API\\Employee.API.csproj",
+        "packagesPath": "C:\\Users\\caaj.pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\Employee.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\caaj.pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.serenity.is/mahmoud-gamal-mahmoud/LY_xN46xXUi5sPT-JDfOPQ/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\InnovateQ.Assignment.Application\\InnovateQ.Assignment.Application.csproj": {
+                "projectPath": "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\InnovateQ.Assignment.Application\\InnovateQ.Assignment.Application.csproj"
+              },
+              "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\InnovateQ.Assignment.Core\\InnovateQ.AssignmentInnovateQ.Assignment.Core.csproj": {
+                "projectPath": "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\InnovateQ.Assignment.Core\\InnovateQ.AssignmentInnovateQ.Assignment.Core.csproj"
+              },
+              "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\InnovateQ.Assignment.Infrastructure\\InnovateQ.Assignment.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\caaj.pc\\Downloads\\EmployeeManagementCleanArchitecture\\InnovateQ.Assignment.Infrastructure\\InnovateQ.Assignment.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
